@@ -1,13 +1,13 @@
-# Taller Spring-AREP
+# Taller servidores de aplicaciones
 
-API con el uso de Heroku para visualizar 
+ 
 
 ## Preparacion
 
 Se bajo el repositorio creado en clase localmente para empezar a trabajarlo con el comando
 
 ```
-git clone https://github.com/YesidCarrillo26/AREP-SPRING.git
+git clone https://github.com/ronis97/AREP-TALLER3.git
 ```
 
 
@@ -28,9 +28,6 @@ Ejecutamos la siguiente instruccion en consola:
 mvn package
 ```
 
-con esto maven se encargara de descargar todos los recursos necesarios para la ejecucion del aplicativo.
-
-Para ejecutar la clase donde esta todo el trabajo realizado para el manejo de los datos del json se utiliza
 
 ```
 mvn exec:java -Dexec.mainClass=""
@@ -53,7 +50,7 @@ http://localhost:5000
 
 ## Autor
 
-**Yesid Santiago Carrillo Almeida**
+**Edgar Ronaldo Henao Villarreal**
 
 
 ## License
